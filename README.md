@@ -43,7 +43,7 @@ root@slife:~# git clone git@github.com:omurugur/Open_Redirect_Payload_List.git
 
 <h5>Twitter  : https://twitter.com/omurugurrr </h5>
 
-<h5>Medium  : https://medium.com/@mruur </h5>
+<h5>Medium  : https://omurugur.medium.com/ </h5>
 
 <h5>Donate!</h5>
 </p>
